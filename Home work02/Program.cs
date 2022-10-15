@@ -4,12 +4,6 @@
 82 -> 10
 9012 -> 12*/
 
-/*int number = ReadInt("Введите число: ");
-int len = NumberLen(number);
-SumNumbers(number, len);*/
-
-
-
 Console.WriteLine("Введите число: ");
 int number = int.Parse(Console.ReadLine ());
 int result= number;
